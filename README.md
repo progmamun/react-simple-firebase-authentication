@@ -11,4 +11,4 @@
 - 5. Export default app
 - 6. import app firebase init.js into your app.js
 - 7. import getAuth from firebase/auth and create auth = getAuth(app)
-- 8. turn on Authentication
+- 8. turn on Authentication (firebase> authentication> enable google sign)
